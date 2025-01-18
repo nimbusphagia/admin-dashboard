@@ -218,7 +218,6 @@ input{
     flex-direction: column;
     padding: 0 20px;
     justify-content: flex-start;
-    align-items: ;
 }
 .trend-container{
     background-color: var(--main);
